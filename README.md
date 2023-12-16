@@ -1,0 +1,1 @@
+This is a game to recreate the old 2d brickbreaker game where a ball bounces around the screen destroying bricks at the top of the screen, and bouncing off a paddle controlled by the user playing the game.
